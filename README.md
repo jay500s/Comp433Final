@@ -6,7 +6,7 @@ This project is an application that seeks to mimic a popular card game known as 
 
 ## Installation
 
-Installation is fairly straightforward with a few points to pay attention to.
+Installation is fairly straightforward with a few aspects to pay attention to:
 
 1. Make sure to use your debug.keystore in order to generate the correct signed APK from Android Studio (Tools -> Generate Signed APK).
 2. Since this app is in its "testing phase," only those players who have been registered by the administrator can access the functionality.
